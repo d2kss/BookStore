@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreMgmt", "BookStoreMgmt\BookStoreMgmt.csproj", "{D613F2C5-A62A-439C-9380-BBA804C73C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "LoggerService\LoggerService.csproj", "{185A09A9-03E2-485F-8D8F-54EBE9150AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D613F2C5-A62A-439C-9380-BBA804C73C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D613F2C5-A62A-439C-9380-BBA804C73C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D613F2C5-A62A-439C-9380-BBA804C73C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D613F2C5-A62A-439C-9380-BBA804C73C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185A09A9-03E2-485F-8D8F-54EBE9150AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185A09A9-03E2-485F-8D8F-54EBE9150AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185A09A9-03E2-485F-8D8F-54EBE9150AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185A09A9-03E2-485F-8D8F-54EBE9150AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F37E05B7-692A-4FF3-BB67-C66DDB4DCE9B}
+	EndGlobalSection
+EndGlobal

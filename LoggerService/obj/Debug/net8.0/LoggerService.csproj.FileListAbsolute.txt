@@ -1,0 +1,12 @@
+D:\d2kss products\BookStoreMgmt\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+D:\d2kss products\BookStoreMgmt\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\d2kss products\BookStoreMgmt\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+D:\d2kss products\BookStoreMgmt\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+D:\d2kss products\BookStoreMgmt\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\d2kss products\BookStoreMgmt\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+D:\d2kss products\BookStoreMgmt\LoggerService\bin\Debug\net8.0\LoggerService.dll
+D:\d2kss products\BookStoreMgmt\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+D:\d2kss products\BookStoreMgmt\LoggerService\obj\Debug\net8.0\LoggerService.dll
+D:\d2kss products\BookStoreMgmt\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+D:\d2kss products\BookStoreMgmt\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+D:\d2kss products\BookStoreMgmt\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll

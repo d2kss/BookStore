@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmvujlHxOyogAosmnPdF5dkKw71FECXQJQC1UGZgzs4z318vB27hoCocYKdDIYNpeM9m8CmkuSgadFRLskf3MA==",
+  "success": true,
+  "projectFilePath": "D:\\d2kss products\\BookStoreMgmt\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASHALATHA\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
